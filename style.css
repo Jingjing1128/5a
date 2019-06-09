@@ -75,14 +75,6 @@ nav li{
 nav ul{
     list-style: none;
     text-transform: uppercase;
-    float: right;
-}
-
-nav img{
-    float: left;
-    height: 55px;
-    margin-left: 0px;
-    margin-top: 0px;
 }
 
 .active{
